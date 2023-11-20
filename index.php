@@ -36,6 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <!DOCTYPE html>
 <html>
+<link rel="stylesheet" href="style.css">
 <head>
     <title>Simple PHP Calculator</title>
 </head>
