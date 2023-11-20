@@ -1,0 +1,61 @@
+/* Style général de la page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 50px;
+}
+
+/* Style du titre */
+h1 {
+  color: #333;
+}
+
+/* Style du formulaire */
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  margin-top: 20px;
+}
+
+/* Style des champs de saisie */
+input[type="number"] {
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* Style du sélecteur d'opération */
+select {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+/* Style du bouton */
+button {
+  background-color: #5cb85c;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #4cae4c;
+}
+
+/* Style du résultat */
+h2 {
+  color: #28a745;
+  margin-top: 20px;
+}
